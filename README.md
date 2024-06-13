@@ -3,7 +3,8 @@
 # Spatial Transcriptomics in Alzheimer’s Disease: Predicting Disease Stages Using CNNs
 By Sohaib Hassan, Perla Molina, Junwei (Ivy) Sun, Shouvik Mani
 
-Abstract
+## Abstract
+
 Advances in single-cell technology have enabled the detailed analysis of cell type compositions
 and gene expressions at the individual cell level, enhancing our understanding of cellular
 heterogeneity across various tissues. With the advent of spatial omics, researchers can now
